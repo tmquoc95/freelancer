@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css?family=Lato');
+
+.footer {
+    background-color: black;
+    padding: 15px;
+    display: flex
+}
+
+.footer > span {
+    font-family: 'Lato', sans-serif;
+    letter-spacing: 0.2em;
+    color: white;
+    margin: auto;
+}
